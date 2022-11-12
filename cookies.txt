@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.india.gov.in	TRUE	/	FALSE	1999999999	lb	587bd0a83ec09137f8708787b1a8429e28f85f1d35368ed49d706e775f10e79d
+.www.india.gov.in	TRUE	/	FALSE	1999999999	SSESScb0bd2a1922b505f64d2f3e0e3b1ea80	bL-o4PzGTj1UHLCgAzAFFcH2w7Ic7gLMgzpduT8jHZo
+
